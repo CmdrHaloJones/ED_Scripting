@@ -31,6 +31,16 @@ So far, just a BuckyBall script.
 ---------------------------------------
 BuckyBall script
 
+++++++++++++Function: ++++++++++++
+
+Automatically capture screen shots on entrance to a new Star System
+
+Automatically capture screen shots on leaving your existing Star System
+
+++++++++++++WHY WOULD YOU WANT IT: ++++++++++++
+
+combining all the screenshots into a gif or movie will show where you have been, nice if you like exploring the Galaxy
+
 ++++++++++++Prerequisites: ++++++++++++
 
 1) UnixUtils : https://sourceforge.net/projects/unxutils/
